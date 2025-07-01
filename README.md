@@ -1,4 +1,4 @@
-# CodeAlpha_StudentGradeTracker
+# StudentGradeTracker
 Java Programming
 # Student Grade Tracker 📝
 
